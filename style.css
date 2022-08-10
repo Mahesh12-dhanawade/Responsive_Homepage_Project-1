@@ -3,10 +3,6 @@
   padding: 0;
 }
 
-body{
-  height: 3000vh;
-}
-
 /* Navbar */
 
 .bg {
@@ -94,6 +90,27 @@ select {
   height: 100%;
 }
 
+/* Footer styling */
+footer{
+  position: absolute;
+    height: 94px;
+    background-color: #3b2632;
+    color: #fff;
+    text-align: center;
+    margin-top: 30%;
+    width: 100%;
+
+
+}
+
+ul{
+  list-style: none;
+}
+
+.fotDiv{
+  align-items: center;
+}
+
 
 
  
@@ -125,6 +142,13 @@ select {
 
   }
 
+  footer{
+    height: 97px;
+    margin-top: 60%;
+
+}
+
+
   
 }
 
@@ -152,6 +176,13 @@ select {
   .quick-s{
     margin-top:43%
   }
+
+  footer{
+    height: 97px;
+    margin-top: 72%;
+
+}
+
 
   
 
@@ -193,7 +224,11 @@ select {
   #img{
     width: 100%;
   }
+  footer{
+    height: 97px;
+    margin-top: 400%;
 
+}
 
 
  
@@ -240,6 +275,12 @@ select {
     margin-left: 24%;
 
   }
+  footer{
+    position: absolute;
+    height: 94px;
+    margin-top: 616%;
+
+}
 }
 
 
@@ -281,6 +322,12 @@ select {
     margin-left: 4%;
 
   }
+  footer{
+
+    height: 111px;
+    margin-top: 662%;
+
+}
 
   
 }
