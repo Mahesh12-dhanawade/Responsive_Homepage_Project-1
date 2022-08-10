@@ -203,8 +203,8 @@ select {
 @media screen and (max-width: 576px) {
    
   .heading {
-    margin-left: 6%;
-    margin-top: 15%;
+    margin-left: 10%;
+    margin-top: 23%;
   }
   /* p {
     font-size: 19px;
@@ -250,7 +250,7 @@ select {
   } */
   .h2{
     font-size: 30px;
-    margin-left: 10px;
+    margin-left: 10%;
 
   }
 
