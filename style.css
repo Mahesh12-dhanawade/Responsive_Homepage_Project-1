@@ -248,7 +248,7 @@ select {
 }
 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
   .heading {
     margin-left: -2%;
     margin-top: 14%;
@@ -265,15 +265,20 @@ select {
 
   .dropdown {
     width: 80%;
-    margin-left: 10%;
-    margin-top: 46%;
-    background-color: #fff;
+    margin-left: 14%;
+    margin-top: 40%;
+  }
+
+  select {
+    height: 54px;
+    width: 94%;
   }
 
 
 
   #card{
     width: 84%;
+    margin-left: 4%;
 
   }
 
