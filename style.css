@@ -203,7 +203,7 @@ select {
 @media screen and (max-width: 576px) {
    
   .heading {
-    margin-left: 16%;
+    margin-left: 6%;
     margin-top: 15%;
   }
   /* p {
@@ -220,22 +220,17 @@ select {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    margin-top: 25%;
-    margin-left: 70px;
-
+  
+    margin-top: 40%;
+    margin-left: 23%;
     position: absolute;
   }
-  #dropdown{
-    height:200px
-  }
-
+  
   select {
-    height: 50px;
-    width: 100%;
-    text-align: center;
+    width: 80%;
   }
   .quick-s{
-    margin-top: 70%;
+    margin-top: 83%;
   }
   .container{
     margin-top:4%;
@@ -249,9 +244,14 @@ select {
 
 
 @media screen and (max-width: 375px) {
-  .heading {
+  /* .heading {
     margin-left: -2%;
     margin-top: 14%;
+  } */
+  .h2{
+    font-size: 30px;
+    margin-left: 10px;
+
   }
 
   #container{
